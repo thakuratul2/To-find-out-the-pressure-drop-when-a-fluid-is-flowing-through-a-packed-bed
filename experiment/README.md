@@ -10,11 +10,11 @@ Fluids are forced to flow through stationary beds of particulate or porous solid
 
 Modified Reynolds’s number Rem is defined as:
 
-<img src="./images/pic1.png" />
+<img src="images/pic1.png" />
 
 Modified friction factor is defined as:
 
-<img src="./images/pic2.png" />
+<img src="images/pic2.png" />
 
 
 
